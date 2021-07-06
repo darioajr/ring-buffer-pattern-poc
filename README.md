@@ -1,2 +1,3 @@
-# ring-buffer-pattern-poc
-Ring Buffer Implementation POC
+## Ring Buffer
+
+Java Ring Buffer pattern implementation
